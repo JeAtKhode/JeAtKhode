@@ -20,7 +20,4 @@ I’m always open to collaboration on innovative projects, especially in:
 ### ⚡ Fun Fact
 In my free time, I’m an avid designer and enjoy blending my technical skills with creativity. When I’m not coding, I love exploring the latest trends in fashion and design.
 
-<!---
-JeAtKhode/JeAtKhode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
